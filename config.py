@@ -1,0 +1,4 @@
+BOT_TOKEN = "8827830531:AAEAF9nYsexVGzFfEJkNqPQDnsSjd7ygCuk"
+ADMIN_IDS = [1366079896]
+BOTOHUB_API_KEY = "2eb4da3a-76e7-44ed-9679-cf65a8fa3750"
+BOTOHUB_API_URL = "https://views.botohub.me/integration"
